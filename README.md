@@ -15,7 +15,3 @@ The playbooks are organized by topics and scenarios. To use them:
 3. **Implement**: Apply the playbook's guidance to your work with Devin.
 
 We hope these playbooks will be a valuable resource as you work with Devin.
-
-## Acknowledgments
-
-- [Sam Yamashita](https://github.com/sotayamashita) for initiating and maintaining this collection.
